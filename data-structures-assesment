@@ -1,0 +1,7 @@
+# Numbers are a data type of whole numbers
+# Strings are a data type used to store a sequence of characters
+# Lists are used to store ordered collections of objects, numbers, chars, and floats
+# Tuples are similar to lists with fewer methods and a tuples are immutable
+# Dictionaries are a collection of ordered pairs of keys and values
+
+10 / 2 + 10 * 7 + 5 ** 2 + .25
